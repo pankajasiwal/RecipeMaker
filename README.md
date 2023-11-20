@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Made using:
+1. React.js
+2. Tailwind CSS
+3. createPortal
+4. spoonacular API
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
